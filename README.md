@@ -7,6 +7,8 @@ Add your themoviedb.org API key in the `local.properties` file:
 tmdb_api_key=YOUR_API_KEY
 ```
 
+<a style="margin-bottom: 0;" href='https://play.google.com/store/apps/details?id=com.hawksteam.movies'><img alt='Get it on Google Play' src='snapchot/google_play.png' height="80px"/></a>
+
 ![Screenshot](snapchots/img1.jpg) 
 ![Screenshot](snapchots/img2.jpg) 
 ![Screenshot](snapchots/img3.jpg) 
