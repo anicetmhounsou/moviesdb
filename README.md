@@ -1,5 +1,5 @@
 # Movies App
-This is a showcase app using http://themoviedb.org rest API to test Dagger 2 Android Injector.
+This is a showcase app using http://themoviedb.org rest API to test Dagger 2 Android Injector inspired by esoxjem/MovieGuide.
 
 
 Add your themoviedb.org API key in the `local.properties` file:
